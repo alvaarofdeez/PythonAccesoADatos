@@ -1,6 +1,3 @@
-import re
-
-
 class Persona():
     nombre = ""
     edad = 0
